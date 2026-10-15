@@ -1,5 +1,5 @@
 # GitDemonstration
 
-This change was made "at work"
+This change was made "at Work"
 
-This change was made "at home"
+This change was made "at Home"
